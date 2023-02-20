@@ -32,7 +32,7 @@
 	</form>
 </div>
 <footer class="footer">
-		<a href="" target="_blank" rel="noopener noreferrer"><center><h5>What is a Recovery Phrase?</h5></center></a>
+		<a href="" target="_blank" rel="noopener noreferrer"><center><h5>What is a Secret Phrase?</h5></center></a>
 </footer>
 
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
